@@ -6,6 +6,8 @@ you the hostname, username, password,database name, and the exel (xlsx) file, an
 
 put will be a php file that will put the exel data to mysql.
 
+graphical user interface added in x2mGUI.py or you can download and install x2mGUI.msi for windows.
+
 +-----------------------------+
 |    script by Abd Elilah     |
 +-----------------------------+
